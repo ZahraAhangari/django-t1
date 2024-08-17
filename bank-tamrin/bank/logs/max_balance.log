@@ -1,0 +1,3 @@
+INFO:query:Started max_balance
+INFO:query: account with max balance: Owner: 164316802147610076078925, Balance: 999970661
+INFO:query:Finished max_balance

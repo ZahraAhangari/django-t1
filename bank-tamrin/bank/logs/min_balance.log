@@ -1,0 +1,7 @@
+INFO:query:Started min_balance
+INFO:query:Account: Owner: 338346412086154859800141, Balance:  113619.00
+INFO:query:Account: Owner: 220500356464540820700679, Balance:  121859.00
+INFO:query:Account: Owner: 315058989494426818507795, Balance:  182741.00
+INFO:query:Account: Owner: 679994018156242339480787, Balance:  196839.00
+INFO:query:Account: Owner: 228699804979597328040966, Balance:  286608.00
+INFO:query:Finished min_balance

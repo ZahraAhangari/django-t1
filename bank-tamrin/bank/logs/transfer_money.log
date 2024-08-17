@@ -1,0 +1,7 @@
+INFO:query:Started transfer_money
+ERROR:query:an account with number 1234567890 or 9876543210 was not found
+INFO:query:Started transfer_money
+ERROR:query:account balance 992212061229676506449590 is not enough
+INFO:query:Started transfer_money
+INFO:query:Transferred 10000 from 992212061229676506449590 to 690713393021892275027917
+INFO:query:Finished transfer_money
